@@ -1,16 +1,56 @@
-## Hi there 👋
+## Hi there 👋 I'm Srikanth Baride  
 
-<!--
-**srikanthbaride/srikanthbaride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Postdoctoral Researcher | 📖 Author | 🤖 AI & Reinforcement Learning Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 About Me  
+- Currently a **Postdoctoral Researcher** at the **University of South Dakota (USD)**.  
+- Research interests: **Reinforcement Learning (RL)**, **Embodied AI**, **World Models**, **Machine Learning in Healthcare**, and **Pattern Mining**.  
+- Author of the upcoming textbook:  
+  **_Reinforcement Learning Fundamentals: From Theory to Practice_** (with companion code repo).  
+- Passionate about **teaching, mentoring, and community building** in AI.  
+
+---
+
+### 🚀 Current Projects  
+- ✍️ Writing a **comprehensive RL textbook** (LaTeX source + reproducible code).  
+- 🔎 Exploring **world models** and **sample-efficient embodied RL**.  
+- 📊 Working on **AI for biomedical computation** with collaborators at USD.  
+- 🎤 Organizing academic events like the **AI Symposium @ USD**.  
+
+---
+
+### 📘 Featured Repositories  
+- 📚 [Reinforcement-Learning-Explained-Code](https://github.com/srikanthbaride/Reinforcement-Learning-Explained-Code) – Companion code for my RL textbook.  
+- 📖 [AI-Symposium](https://github.com/srikanthbaride/ai-website) – Website for USD AI Symposium.  
+- 📝 Research paper repositories and proposals (in progress).  
+
+---
+
+### 🛠️ Tech & Tools  
+- Languages: **Python, LaTeX, SQL**  
+- Libraries: **PyTorch, TensorFlow, scikit-learn**  
+- Tools: **Overleaf, Git, Power Automate, HPC (Lawrence)**  
+
+---
+
+### 🌱 What I’m Learning  
+- Advanced **world model architectures** (DreamerV3, AdaWorld).  
+- **Deep RL alignment techniques** for LLMs.  
+- **GIS tools** (supporting cross-disciplinary projects).  
+
+---
+
+### 📫 How to Reach Me  
+- 🌐 Website: [AI Research Lab @ USD](https://www.ai-research-lab.org/)  
+- 💼 LinkedIn: [linkedin.com/in/srikanth-baride](https://www.linkedin.com/in/srikanth-baride/)  
+- 🎓 Google Scholar: [Scholar Profile](https://scholar.google.com/citations?user=Sy_2zJcAAAAJ)  
+
+---
+
+### ⚡ Fun Fact  
+I enjoy teaching **yoga & meditation** 🧘 alongside AI research — helping people cultivate both **clarity of mind and clarity of models**.  
+
+---
+⭐️ Check out my pinned repositories for active work!  
