@@ -2,7 +2,7 @@
 **• Reinforcement Learning • Spatial Data Mining**
 
  🎓 PhD IIIT-D | 🚀 Author: *“Reinforcement Learning Explained”*  
-🔬 University of South Dakota AI Research Lab | 📜 [Google Scholar](https://scholar.google.com/citations?user=YOUR_USER) | 💼 [LinkedIn](https://linkedin.com/in/srikanth-baride)
+🔬 University of South Dakota AI Research Lab | 📜 [Google Scholar](https://scholar.google.com/citations?user=Sy_2zJcAAAAJ) | 💼 [LinkedIn](https://linkedin.com/in/srikanth-baride)
 
 ![GitHub stars](https://img.shields.io/github/stars/srikanthbaride/Reinforcement-Learning-Explained-Code?style=flat-square)
 ![Repos](https://img.shields.io/badge/Repos-17-blue?style=flat-square)
