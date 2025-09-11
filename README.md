@@ -23,7 +23,7 @@
 
 ### 📘 Featured Repositories  
 - 📚 [Reinforcement-Learning-Explained-Code](https://github.com/srikanthbaride/Reinforcement-Learning-Explained-Code) – Companion code for my RL textbook.  
-- 📖 [AI-Symposium]([https://github.com/srikanthbaride/ai-website]) – Website for USD AI Symposium.  
+- 📖 [AI-Symposium]([[https://github.com/srikanthbaride/ai-website]](https://github.com/USDAIResearch/ai-website)) – Website for USD AI Symposium.  
 - 📝 Research paper repositories and proposals (in progress).  
 
 ---
