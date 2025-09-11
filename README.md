@@ -1,7 +1,8 @@
-## Hi there 👋 I'm Dr. Srikanth Baride  
+# Dr. Srikanth Baride | Postdoc AI Researcher  
+**Reinforcement Learning • World Models • Spatial Data Mining • PyTorch • Spark • Azure**
 
-🎓 Postdoctoral Researcher | 📖 Author | 🤖 AI & Reinforcement Learning Enthusiast  
-
+ 🎓 PhD IIIT-D | 🚀 Author: *“Reinforcement Learning Explained”*  
+🔬 University of South Dakota AI Research Lab | 📜 [Google Scholar](https://scholar.google.com/citations?user=YOUR_USER) | 💼 [LinkedIn](https://linkedin.com/in/srikanth-baride)
 ---
 
 ### 🔬 About Me  
