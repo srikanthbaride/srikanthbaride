@@ -38,7 +38,6 @@
 ### 🌱 What I’m Learning  
 - Advanced **world model architectures** (DreamerV3, AdaWorld).  
 - **Deep RL alignment techniques** for LLMs.  
-- **GIS tools** (supporting cross-disciplinary projects).  
 
 ---
 
@@ -50,7 +49,7 @@
 ---
 
 ### ⚡ Fun Fact  
-I enjoy teaching **yoga & meditation** 🧘 alongside AI research — helping people cultivate both **clarity of mind and clarity of models**.  
+I enjoy teaching **meditation** 🧘 alongside AI research — helping people cultivate both **clarity of mind and clarity of models**.  
 
 ---
 ⭐️ Check out my pinned repositories for active work!  
