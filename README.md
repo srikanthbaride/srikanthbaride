@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Srikanth Baride  
+## Hi there 👋 I'm Dr. Srikanth Baride  
 
 🎓 Postdoctoral Researcher | 📖 Author | 🤖 AI & Reinforcement Learning Enthusiast  
 
