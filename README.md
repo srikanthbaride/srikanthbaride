@@ -1,5 +1,5 @@
 # Dr. Srikanth Baride | Postdoc AI Researcher  
-**Reinforcement Learning • Spatial Data Mining**
+**• Reinforcement Learning • Spatial Data Mining**
 
  🎓 PhD IIIT-D | 🚀 Author: *“Reinforcement Learning Explained”*  
 🔬 University of South Dakota AI Research Lab | 📜 [Google Scholar](https://scholar.google.com/citations?user=YOUR_USER) | 💼 [LinkedIn](https://linkedin.com/in/srikanth-baride)
