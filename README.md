@@ -3,6 +3,10 @@
 
  🎓 PhD IIIT-D | 🚀 Author: *“Reinforcement Learning Explained”*  
 🔬 University of South Dakota AI Research Lab | 📜 [Google Scholar](https://scholar.google.com/citations?user=YOUR_USER) | 💼 [LinkedIn](https://linkedin.com/in/srikanth-baride)
+
+![GitHub stars](https://img.shields.io/github/stars/srikanthbaride/Reinforcement-Learning-Explained-Code?style=flat-square)
+![Repos](https://img.shields.io/badge/Repos-17-blue?style=flat-square)
+![Contributions](https://img.shields.io/badge/Contributions-136/year-green?style=flat-square)
 ---
 
 ### 🔬 About Me  
