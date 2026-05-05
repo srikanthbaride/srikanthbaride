@@ -1,7 +1,7 @@
 # Dr. Srikanth Baride · Postdoctoral AI Researcher
 **Reinforcement Learning · Sustainable AI · LLM Systems · Retrieval-Augmented Reasoning**
 
-🎓 PhD IIIT-D &nbsp;|&nbsp; 🏛️ University of South Dakota AI Research Lab &nbsp;|&nbsp; 📜 [Google Scholar](https://scholar.google.com/citations?user=Sy_2zJcAAAAJ) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/srikanth-baride) &nbsp;|&nbsp; 🌐 [ai-research-lab.org](https://www.ai-research-lab.org/)
+🎓 PhD IIIT-D &nbsp;|&nbsp; 🏛️ University of South Dakota AI Research Lab &nbsp;|&nbsp; 📜 [Google Scholar](https://scholar.google.com/citations?user=Sy_2zJcAAAAJ) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/srikanth-baride)
 
 ![GitHub stars](https://img.shields.io/github/stars/srikanthbaride/Reinforcement-Learning-Explained-Code?style=flat-square&color=01696f)
 ![Repos](https://img.shields.io/badge/Repos-24-blue?style=flat-square)
