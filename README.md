@@ -58,6 +58,38 @@ RAR (Retrieval-Augmented Reflexion) augments the agent's verbal reinforcement lo
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+### 🎬 [ActionCLIP](https://github.com/srikanthbaride/ActionCLIP) — Multimodal Video Action Recognition
+
+> *Extends ActionCLIP with optical flow as a third modality for richer spatiotemporal video understanding.*
+
+This project enhances the original ActionCLIP framework by incorporating optical flow alongside RGB frames and text, enabling the model to capture motion dynamics more explicitly. The extended three-stream architecture improves action recognition performance on standard video benchmarks.
+
+| Dimension | Details |
+|---|---|
+| **Modalities** | RGB · Optical Flow · Text (CLIP) |
+| **Framework** | ActionCLIP (CLIP-based video understanding) |
+| **Contribution** | Third-stream optical flow integration |
+| **Focus** | Video Action Recognition · Multimodal Fusion |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+### 🧬 [Multimodal Precursor Detection](https://github.com/srikanthbaride/multimodal-precursor-detection) — Biomedical AI for Early Disease Detection
+
+> *A multimodal deep learning pipeline for detecting precursor signals of disease from heterogeneous biomedical data.*
+
+This project leverages multimodal fusion of clinical, imaging, and molecular data to identify early-stage precursor biomarkers, advancing AI-driven precision medicine. The pipeline is designed for reproducibility and integration with real-world biomedical datasets.
+
+| Dimension | Details |
+|---|---|
+| **Modalities** | Clinical · Imaging · Molecular/Genomic |
+| **Task** | Precursor biomarker detection |
+| **Approach** | Multimodal deep learning fusion |
+| **Focus** | Precision Medicine · Early Diagnosis · Biomedical AI |
+
+---
+
 ## 🔬 About Me
 
 - **Postdoctoral Researcher** at the **University of South Dakota (USD)** AI Research Lab.
