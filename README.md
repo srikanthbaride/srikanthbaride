@@ -59,18 +59,18 @@ RAR (Retrieval-Augmented Reflexion) augments the agent's verbal reinforcement lo
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-### 🎬 [ActionCLIP](https://github.com/srikanthbaride/ActionCLIP) — Multimodal Video Action Recognition
+### 🌊 [FlowCLIP](https://github.com/srikanthbaride/FlowCLIP) — Multimodal Video Action Recognition with Learnable Optical Flow
 
-> *Extends ActionCLIP with optical flow as a third modality for richer spatiotemporal video understanding.*
+> *Extends ActionCLIP with learnable optical flow as a complementary temporal modality for fine-grained spatiotemporal video understanding.*
 
-This project enhances the original ActionCLIP framework by incorporating optical flow alongside RGB frames and text, enabling the model to capture motion dynamics more explicitly. The extended three-stream architecture improves action recognition performance on standard video benchmarks.
+FlowCLIP builds on the ActionCLIP framework by adding optical flow alongside RGB frames and text, enabling the model to capture motion dynamics more explicitly. The three-stream architecture (RGB · Flow · Text) improves action recognition on motion-intensive action classes across standard video benchmarks.
 
 | Dimension | Details |
 |---|---|
 | **Modalities** | RGB · Optical Flow · Text (CLIP) |
-| **Framework** | ActionCLIP (CLIP-based video understanding) |
-| **Contribution** | Third-stream optical flow integration |
-| **Focus** | Video Action Recognition · Multimodal Fusion |
+| **Framework** | FlowCLIP (ActionCLIP + learnable flow stream) |
+| **Contribution** | Optical flow as a third temporal modality |
+| **Focus** | Video Action Recognition · Multimodal Fusion · Motion Understanding |
 
 ---
 
